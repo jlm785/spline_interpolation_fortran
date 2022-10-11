@@ -1,0 +1,13 @@
+The subroutines can be tested with
+
+prompt$  gfortran test_grid_interp.f90 splift.f90  splint.f90  spliq.f90
+
+where you can change gfortran for any other fortran compiler.
+
+See test_grid_interp.f90 for an example on how to use those subroutines
+
+Early description of the original subroutines:
+
+https://www.osti.gov/servlets/purl/1545814
+
+The present subroutines are compatible with the original.
